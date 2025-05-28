@@ -16,3 +16,7 @@ Regression_example.py
     - Uses the forty_soybean_cultivars_from_subsequent_harvests dataset from UCI ML repository (fetch_ucirepo(id=913))
 
     - Plots the results
+
+bone-fracture-detection-yolo11-explained.ipynb
+
+    - A script from Kaggle showing basic usage of YOLO11 and explaining the model
